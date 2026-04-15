@@ -1,7 +1,7 @@
-🌍 Global Layoffs Data Analysis using SQL
-📌 Project Overview
+# 🌍 Global Layoffs Data Analysis using SQL
+# 📌 Project Overview
 This project focuses on analyzing global layoffs data (2020–2023) using SQL. It involves building a complete data pipeline—from raw data cleaning to extracting meaningful insights—using advanced SQL techniques.
-📊 Dataset
+# 📊 Dataset
 Real-world dataset of 2,361 companies
 Covers layoffs from 2020 to 2023
 Total layoffs analyzed: 383,159
